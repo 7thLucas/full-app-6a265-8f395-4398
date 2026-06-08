@@ -1,7 +1,10 @@
 # Product Overview — Video Analyzer
 
 ## What It Is
-A web-based video analysis tool that lets users upload or link to videos and extract meaningful intelligence from them — transcripts, scene summaries, object detection highlights, sentiment analysis, key moment tagging, and exportable reports.
+A web-based video analysis tool that lets users upload or link to videos and extract meaningful intelligence from them — transcripts, scene summaries, key moments, sentiment timeline, tags, and exportable reports.
+
+## Tagline
+**"Every Frame Holds Intelligence."**
 
 ## Users
 - Content creators and marketers analyzing video performance and content
